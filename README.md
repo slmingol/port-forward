@@ -15,3 +15,4 @@ The second uses redis-server, redis-cli, and redis-benchmark. In a similar fashi
 * https://github.com/craSH/socat/blob/master/EXAMPLES
 * https://docs.docker.com/network/
 * https://stackoverflow.com/questions/24319662/from-inside-of-a-docker-container-how-do-i-connect-to-the-localhost-of-the-mach
+* https://stackoverflow.com/questions/17770902/forward-host-port-to-docker-container
