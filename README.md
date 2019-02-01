@@ -16,3 +16,5 @@ The second uses redis-server, redis-cli, and redis-benchmark. In a similar fashi
 * https://docs.docker.com/network/
 * https://stackoverflow.com/questions/24319662/from-inside-of-a-docker-container-how-do-i-connect-to-the-localhost-of-the-mach
 * https://stackoverflow.com/questions/17770902/forward-host-port-to-docker-container
+* https://hub.docker.com/r/clue/redis-benchmark
+* https://kubernetes.io/docs/tasks/access-application-cluster/port-forward-access-application-cluster/
